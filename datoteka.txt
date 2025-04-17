@@ -1,1 +1,2 @@
 Ovo je moja tekstualna datoteka, 17.4.2025.
+This is edited line of this file.
